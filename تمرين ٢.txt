@@ -1,0 +1,14 @@
+public class Main
+{
+	public static void main(String[] args) {
+
+     int height = 160; 
+     int x = 170; 
+     
+     if(x>160){
+         System.out.println("you can enter the game");
+     }else{
+         System.out.println("you can not enter the game");
+     }
+	}
+}
